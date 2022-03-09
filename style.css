@@ -1,0 +1,35 @@
+
+#page{
+    position: absolute;
+    width: 1200px;
+    height:400px;
+    background: url("https://images.unsplash.com/photo-1475666675596-cca2035b3d79?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxNDU4OXwwfDF8cmFuZG9tfHx8fHx8fHx8MTY0NjgzMjEyOA&ixlib=rb-1.2.1&q=80&w=400");
+  background-repeat: no-repeat;
+  background-position: center;
+background-size: cover;
+    
+  }
+    
+  #search-div {
+    display: flex;
+    justify-content: center;
+  }
+  
+  #search-div a {
+    background:white;
+    height: 50px;
+    padding: 3px 10px;
+    color: black;
+    text-decoration:none;
+   }
+   
+  #search-div input{
+    background-color: black;
+    height: 55px;
+    width: 350px;
+    text-decoration-color: blanchedalmond;
+ }
+  #text{
+    text-align: center;
+  }
+  
